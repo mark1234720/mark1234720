@@ -18,8 +18,9 @@
 
 - 🎓 Majoring in **Cybersecurity**, with minors in **Cloud Computing** and **Machine Learning**
 - 🤖 **Backend Engineering Intern at FlyRank AI** (ML/AI Engineering track)
+- **FinTech Intership** at **CIB**
 - ☁️ Logistics committee member at the **AWS Cloud Club**
-- 🛡️ Microsoft Certified: **SC-900** (Security, Compliance, and Identity Fundamentals), working toward SC-200 and SC-300
+- 🛡️ Microsoft Certified: **SC-900** (Security, Compliance, and Identity Fundamentals)
 - 🏁 Training for **ICPC** with a team, solving problems in Java
 - 🧠 I build things where software meets people: games for children's therapy, fire-data tools, and AI pipelines
 
@@ -27,7 +28,7 @@
 
 ## 🚀 Featured projects
 
-### 🔥 Pyroscope (formerly HotSync)
+### 🔥 Pyroscope
 Harmonizes **NASA FIRMS MODIS and VIIRS** active-fire data into one consistent view, with a country-by-country fire forecast map. Built for **NASA Space Apps Challenge (Cairo)**.
 
 ### 🖼️ AI Image Understanding & Content Matching Engine
